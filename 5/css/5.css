@@ -1,0 +1,46 @@
+.type-5 .filterDiv {
+  float: left;
+  color: #ffffff;
+  width: 270px;
+  line-height: 200px;
+  text-align: center;
+  margin: 2px;
+  display: none;
+}
+.type-5 .filterDiv img {
+  width: 100%;
+}
+.type-5 .show {
+  display: block;
+}
+.type-5 .container {
+  margin-top: 20px;
+  overflow: hidden;
+}
+.type-5 .container h6 {
+  text-align: center;
+}
+.type-5 .container h2 {
+  text-align: center;
+}
+.type-5 .container #myBtnContainer {
+  text-align: center;
+  padding: 10px;
+}
+.type-5 .container #myBtnContainer .btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: white;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+.type-5 .container #myBtnContainer .btn:hover {
+  background-color: white;
+  color: black;
+}
+.type-5 .container #myBtnContainer .btn.active {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+}

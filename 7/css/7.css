@@ -1,0 +1,17 @@
+.type-7 {
+  background: #8db392;
+  padding: 80px 0px 80px 0px;
+  text-align: center;
+}
+.type-7 .Write {
+  font-family: cursive;
+  font-size: 36px;
+  color: white;
+  padding-bottom: 20px;
+}
+.type-7 .btn-succes {
+  border-radius: 20px;
+  border: 2px solid white;
+  padding: 10px 30px;
+  background: #8db392;
+}
